@@ -1,0 +1,4 @@
+#ignorar ficheros del tipo .log
+*.log
+# Ignorar directorio con imagenes 
+/imagenes/
